@@ -1,0 +1,19 @@
+{
+    "Alumnos": [
+        {
+            "Nombre": "Fran",
+            "Apellidos": "Rguez",
+            "Edad": 17
+        },
+        {
+            "Nombre": "T\u00e1nia",
+            "Apellidos": "Vilella",
+            "Edad": 13
+        },
+        {
+            "Nombre": "Marcos",
+            "Apellidos": "Miranda",
+            "Edad": 12
+        }
+    ]
+}

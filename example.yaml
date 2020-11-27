@@ -1,0 +1,4 @@
+- name: Juanito
+  occupation: Chef
+- name: "Luc\xEDa"
+  occupation: Peluquera
